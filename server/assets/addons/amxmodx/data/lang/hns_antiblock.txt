@@ -1,0 +1,5 @@
+[en]
+HNS_BODYBLOCKED = ^1[^4Anti Block^1] ^3%n ^1bodyblocked ^3%n^1.
+
+[ru]
+HNS_BODYBLOCKED = ^1[^4Anti Block^1] ^3%n ^1заблочил ^3%n^1.

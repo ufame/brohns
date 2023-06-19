@@ -1,0 +1,6 @@
+{
+  "amxxpawn.compiler.includePaths": [
+    "/home/ufame/GoldsrcDev/compiler/include",
+    "${workspaceRoot}/server/src/include"
+  ],
+}

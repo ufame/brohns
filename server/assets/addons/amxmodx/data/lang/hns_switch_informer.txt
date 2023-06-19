@@ -1,0 +1,7 @@
+[ru]
+WIN_TERRORISTS = ПРЯЧУЩИЕСЯ ПОБЕДИЛИ
+WIN_CTS = ИСКАТЕЛИ ПОБЕДИЛИ^nСМЕНА КОМАНД
+
+[en]
+WIN_TERRORISTS = THE WEAKNESSES WON
+WIN_CTS = THE SEEKERS WON^nSWAP TEAMS

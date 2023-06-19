@@ -1,0 +1,6 @@
+*/node_modules
+
+server/dist
+server/.compiler
+server/.thirdparty
+*.amxx

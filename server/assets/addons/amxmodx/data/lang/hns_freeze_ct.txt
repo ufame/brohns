@@ -1,0 +1,7 @@
+[en]
+SAR_CT_FROZEN = ^1[^4AntiRush^1] The seekers has been frozen for ^3%d^1s.
+SAR_CT_UNFROZEN = ^1[^4AntiRush^1] The seekers have been unfrozen!
+
+[ru]
+SAR_CT_FROZEN = ^1[^4AntiRush^1] Ловцы заморожены на ^3%d^1с.
+SAR_CT_FROZEN = ^1[^4AntiRush^1] Ловцы были разморожены!
