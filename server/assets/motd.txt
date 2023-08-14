@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Добро пожаловать на наш сервер!</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #1a1a1a;
+    color: #ffffff;
+  }
+
+  .container {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+
+  .header {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+
+  .message {
+    font-size: 18px;
+    margin-bottom: 30px;
+  }
+
+  .server-info {
+    font-size: 16px;
+  }
+
+  .server-ip {
+    color: #3498db;
+  }
+
+  .discord-link {
+    color: #e74c3c;
+    text-decoration: none;
+  }
+
+  .footer {
+    font-size: 12px;
+    margin-top: 20px;
+  }
+</style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">Добро пожаловать на BroHNS</div>
+    <div class="message">Присоединяйтесь к нам для увлекательной игры и отличного общения!</div>
+    <div class="server-info">IP сервера: <span class="server-ip">93.191.11.213:27055</span></div>
+    <div class="server-info">Присоединяйтесь к нашему Telegram: <div class="discord-link">https://t.me/brocsx</div></div>
+    <div class="footer">Спасибо, что выбрали наш сервер! &copy; 2023</div>
+  </div>
+</body>
+</html>
