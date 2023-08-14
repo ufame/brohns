@@ -6,7 +6,7 @@
 
 new const HIDEKNIFE_KEY_T[] = "hideknife_t"
 new const HIDEKNIFE_KEY_CT[] = "hideknife_ct"
-new const HIDEKNIFE_DEFAULT_VALUE[] = "false" //don't hide
+new const HIDEKNIFE_DEFAULT_VALUE[] = "0" //don't hide
 
 new bool: g_playerHideKnife[MAX_PLAYERS + 1][TeamName]
 
@@ -69,6 +69,8 @@ public hideknifeHandler(const id, const menu, const item) {
       pp_set_bool(id, HIDEKNIFE_KEY_CT, hideKnife)
     }
   }
+
+  commandHideKnife(id)
 
   if (is_user_alive(id) && hideTeam == get_member(id, m_iTeam)) {
     new activeItem = get_member(id, m_pActiveItem)
